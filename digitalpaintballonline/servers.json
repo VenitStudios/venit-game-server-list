@@ -5,4 +5,7 @@
   "Venit Test Server (Localhost)": {
     "server_ip_port": "127.0.0.1:65501"
   },
+  "Venit Test Server (Localhost String)": {
+    "server_ip_port": "localhost:65501"
+  },
 }
