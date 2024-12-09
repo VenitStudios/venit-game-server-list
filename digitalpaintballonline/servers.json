@@ -6,9 +6,9 @@
     "server_ip_port": "147.185.221.19:39368"
   },
   "Venit Test Server (Localhost)": {
-    "server_ip_port": "127.0.0.1:65501"
+    "server_ip_port": "127.0.0.1:27015"
   },
   "Venit Test Server (Localhost String)": {
-    "server_ip_port": "localhost:65501"
+    "server_ip_port": "localhost:27015"
   },
 }
